@@ -39,7 +39,7 @@
 ### 📫 Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/ahmedmostafa-io) <!-- أضف لينكد إن هنا لو عندك -->
-- Email: ahmed@example.com <!-- اكتب إيميلك الحقيقي لو حابب -->
+- Email: ahmedmostafa.codes@gmail.com  
 
 ---
 

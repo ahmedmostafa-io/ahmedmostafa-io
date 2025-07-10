@@ -38,8 +38,8 @@
 
 ### 📫 Connect With Me
 
-- [LinkedIn](https://www.linkedin.com/in/ahmedmostafa-io) <!-- أضف لينكد إن هنا لو عندك -->
-- Email: ahmedmostafa.codes@gmail.com  
+- [LinkedIn](https://www.linkedin.com/in/ahmed-mostafa-582378373/) 
+- [Email]: ahmedmostafa.codes@gmail.com  
 
 ---
 

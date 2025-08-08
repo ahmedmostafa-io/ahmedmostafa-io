@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=180&section=header&text=Ahmed%20Mostafa&fontSize=42&fontAlignY=35&desc=Frontend%20Engineer%20|%20React%20%26%20Next.js&descAlignY=55&descAlign=50" />
+ ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=180&section=header&text=Ahmed%20Mostafa&fontSize=42&fontAlignY=35&desc=Frontend%20Engineer%20%7C%20React%20%26%20Next.js&descAlignY=55&descAlign=50)
 </p>
 
 <!-- Intro -->
@@ -43,7 +43,7 @@
 |---------|------------|-------------|-----------|-------------|
 | *E-Commerce Store* | React, Context API, Tailwind CSS, JWT Auth | Production-ready store with authentication, cart, wishlist, and order tracking. | [Live](https://e-commerce-react-hvitdko70-ahmedmostafa-ios-projects.vercel.app/) | [Code](https://github.com/ahmedmostafa-io/E-Commerce-React) |
 | *Eat 'n Split* | React, CSS Modules | Expense-splitting app with dynamic UI and friend-based bill sharing. | [Live](https://eat-n-split-self-five.vercel.app/) | [Code](https://github.com/ahmedmostafa-io/eat-n-split) |
-| *Movie Explorer* | React, API Fetch | Explore and search movies with API integration, pagination, and filters. | [Live](https://movie-explorer-react.vercel.app/) | [Code](https://github.com/ahmedmostafa-io/movie-explorer) |
+| *Movie Explorer* | React, API Fetch | Explore and search movies with API integration, pagination, and filters. | !Coming Soon | !Coming Soon |
 
 ---
 

@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
- ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=180&section=header&text=Ahmed%20Mostafa&fontSize=42&fontAlignY=35&desc=Frontend%20Engineer%20%7C%20React%20%26%20Next.js&descAlignY=55&descAlign=50)
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=180&section=header&text=Ahmed%20Mostafa&fontSize=42&fontAlignY=35&desc=Frontend%20Engineer%20|%20React%20%26%20Next.js&descAlignY=55&descAlign=50" />
 </p>
 
 <!-- Intro -->

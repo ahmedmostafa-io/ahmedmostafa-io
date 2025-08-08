@@ -1,7 +1,5 @@
 <!-- Banner -->
-<p align="center">
- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=180&section=header&text=Ahmed%20Mostafa&fontSize=42&fontAlignY=35&desc=Frontend%20Engineer%20|%20React%20%26%20Next.js&descAlignY=55&descAlign=50" />
-</p>
+![header](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0052D4,50:4364F7,100:6FB1FC&text=Ahmed%20Mostafa&fontSize=46&fontAlignY=35&desc=Frontend%20Engineer%20%7C%20React%20%26%20Next.js&descSize=22&descAlignY=55&descAlign=50&fontColor=ffffff)
 
 <!-- Intro -->
 <h3 align="center">Frontend Engineer | Building Reliable, Scalable, and Engaging Web Applications</h3>

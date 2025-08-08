@@ -1,5 +1,7 @@
 <!-- Banner -->
-<h1 align="center">Hi there, I'm Ahmed Mostafa</h1>
+<p align="center">
+ <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Ahmed%20Mostafa&textBg=false&fontColor=000&stroke=AEEFFF" alt="Ahmed Mostafa Banner" />
+</p>
 <!-- Intro -->
 <h3 align="center">Frontend Engineer | Building Reliable, Scalable, and Engaging Web Applications</h3>
 <p align="center">
